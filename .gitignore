@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets (private keys, RPC URLs) - never commit these
+.env
+
+# Remix / build output
+artifacts/
+.deps/
+build/
+
+# OS / Office temp files
+.DS_Store
+Thumbs.db
+~$*.pptx
+*.log
