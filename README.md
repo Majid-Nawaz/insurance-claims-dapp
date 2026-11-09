@@ -16,9 +16,6 @@ This project is designed to use a Solidity smart contract as a trusted middle la
 | Python (web3.py) | Contract deployment and interaction |
 | Shell script | Automation of setup and execution |
 
-## Status
-This project is under active development.
 
 ## Author
-**Majid Nawaz** | Student Number: `2024473`
-BSc Computing and IT, CCT College Dublin
+Majid Nawaz, 2024473
