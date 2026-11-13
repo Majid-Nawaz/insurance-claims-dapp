@@ -18,3 +18,4 @@ Thumbs.db
 ~$*.pptx
 *.log
 desktop.ini
+.pytest_cache/
